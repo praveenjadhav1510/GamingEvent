@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GamingEvent/static/css/main.da4562f8.css",
-    "main.js": "/GamingEvent/static/js/main.288b4ef7.js",
+    "main.css": "/GamingEvent/static/css/main.a5c3b524.css",
+    "main.js": "/GamingEvent/static/js/main.797d51a3.js",
     "static/js/453.e6be41b7.chunk.js": "/GamingEvent/static/js/453.e6be41b7.chunk.js",
     "index.html": "/GamingEvent/index.html",
-    "main.da4562f8.css.map": "/GamingEvent/static/css/main.da4562f8.css.map",
-    "main.288b4ef7.js.map": "/GamingEvent/static/js/main.288b4ef7.js.map",
+    "main.a5c3b524.css.map": "/GamingEvent/static/css/main.a5c3b524.css.map",
+    "main.797d51a3.js.map": "/GamingEvent/static/js/main.797d51a3.js.map",
     "453.e6be41b7.chunk.js.map": "/GamingEvent/static/js/453.e6be41b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da4562f8.css",
-    "static/js/main.288b4ef7.js"
+    "static/css/main.a5c3b524.css",
+    "static/js/main.797d51a3.js"
   ]
 }
